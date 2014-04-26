@@ -79,7 +79,7 @@ class ListsSuite extends FunSuite {
   /**
    * In order to test the exceptional behavior of a methods, ScalaTest offers
    * the `intercept` operation.
-   *
+   * 
    * In the following example, we test the fact that the method `intNotZero`
    * throws an `IllegalArgumentException` if its argument is `0`.
    */
